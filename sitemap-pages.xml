@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://magok-karaoke-note.nurse-kyujin.online/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://magok-karaoke-note.nurse-kyujin.online/posts/compare-002-1o4jw8s.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -57,11 +62,6 @@
   </url>
   <url>
     <loc>https://magok-karaoke-note.nurse-kyujin.online/posts/review-002.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://magok-karaoke-note.nurse-kyujin.online/posts.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
